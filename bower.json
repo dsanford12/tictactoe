@@ -1,0 +1,22 @@
+{
+  "name": "ttt",
+  "homepage": "https://github.com/dsanford12/tictactoe",
+  "authors": [
+    "Dale Sanford <dsanford12@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "jquery": "^3.2.1",
+    "font-awesome": "^4.7.0"
+  }
+}
